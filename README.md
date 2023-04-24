@@ -4,6 +4,7 @@ This project aims to build machine learning models to predict breast cancer base
 
 ## Files 
 * [Breast-Cancer-Prediction](https://nbviewer.org/github/edwarjosep11/Breast-Cancer-Detection/blob/main/breast-cancer-prediction.ipynb): Jupyter Notebook with full code and the results of each model. 
+* Data Folder: A folder with a csv. file containing the data for the project. The data is also available online at [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?datasetId=180&sortBy=voteCount).
 * README.md: A markdown file that contains information about the project.
 
 ## Dataset

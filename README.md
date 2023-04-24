@@ -3,7 +3,7 @@
 This project aims to build machine learning models to predict breast cancer based on features such as age, tumor size, and number of positive lymph nodes. The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dataset from the UCI Machine Learning Repository. The data is available at [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?datasetId=180&sortBy=voteCount).
 
 ## Files 
-* [Breast-Cancer-Prediction](): Jupyter Notebook with full code and the results of each model. 
+* [Breast-Cancer-Prediction](https://nbviewer.org/github/edwarjosep11/Breast-Cancer-Detection/blob/main/breast-cancer-prediction.ipynb): Jupyter Notebook with full code and the results of each model. 
 * README.md: A markdown file that contains information about the project.
 
 ## Dataset
